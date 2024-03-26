@@ -1,4 +1,14 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+# I`m Timothy Kuijper 
+
+## game developer in college from the netherlands 
+### currently working on the game [NEON origins](https://www.neonorigins.com) at game studio [BAstudios](https://github.com/BAStudio) set up at [Media College Amsterdam](https://www.ma-web.nl)
+
+
+
+
+
 
 <!--
 **TimothyKuijper/TimothyKuijper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
