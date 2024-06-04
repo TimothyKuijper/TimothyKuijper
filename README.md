@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-# I`m Timothy Kuijper 
+# I'm Timothy Kuijper 
 
 ## game developer in college from the netherlands 
 ### currently working on the game [NEON origins](https://www.neonorigins.com) at game studio [BAstudios](https://github.com/BAStudio) set up at [Media College Amsterdam](https://www.ma-web.nl)
